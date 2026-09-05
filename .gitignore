@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Temp fetch scripts & data (LeetCode scraping helpers)
+_fetch_*.py
+_string_easy.json
+_leetcode_string.html
+_next_data.json
