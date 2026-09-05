@@ -29,6 +29,7 @@
 | 387 | First Unique Character in a String | [387/](387/) |
 | 389 | Find the Difference | [389/](389/) |
 | 392 | Is Subsequence | [392/](392/) |
+| 405 | Convert a Number to Hexadecimal | [405/](405/) |
 
 > Таблица пуста — задачи ещё не добавлены.
 > При добавлении решения вписывайте сюда строку: номер, краткое название, ссылка.
